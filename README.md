@@ -77,7 +77,7 @@ Based on the data analysis and model insights, the following recommendations are
   - Conduct regular job satisfaction surveys and act on the feedback
 
 This link should direct you to the powerbi visual dashboard Analysis 
-[https://app.powerbi.com/links/dmtWGoRthw?ctid=dbc4fb19-9838-483e-b13d-950a0f1a88d7&pbi_source=linkShare]
+https://app.powerbi.com/reportEmbed?reportId=2c3a76a2-3d4f-40eb-8cd7-fe1545aeea0b&autoAuth=true&ctid=f65d1ce8-6091-4987-8fb8-bc3a41090675
 
 ## Conclusion
 The analysis of employee attrition has provided valuable insights into the factors contributing to turnover. By implementing the recommended strategies, organizations can reduce attrition rates, improve employee satisfaction, and enhance overall productivity and success.
